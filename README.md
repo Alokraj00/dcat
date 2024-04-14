@@ -8,7 +8,7 @@ Terminal or command-line interface
 
 Usage:
 
-git clone 
+git clone https://github.com/Alokraj00/dcat.git
 cd dcat
 gcc script.c
 ./a.out
