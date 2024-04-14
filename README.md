@@ -5,3 +5,10 @@ Requirements
 Kali Linux (or any other Linux distribution with Netcat installed)
 Basic knowledge of networking concepts
 Terminal or command-line interface
+
+Usage:
+
+git clone 
+cd dcat
+gcc dcat.c
+./a.out
