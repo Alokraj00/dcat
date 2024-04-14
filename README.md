@@ -10,5 +10,5 @@ Usage:
 
 git clone 
 cd dcat
-gcc dcat.c
+gcc script.c
 ./a.out
