@@ -34,5 +34,4 @@ For Debian Based.
 ```
 ## Authors
 
-- [@Alok Raj][https://github.com/Alokraj00]
-
+- [@Alok Raj](https://github.com/Alokraj00)
